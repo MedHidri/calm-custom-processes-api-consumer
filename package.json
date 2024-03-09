@@ -1,0 +1,20 @@
+{
+  "name": "calm-custom-processes-api-consumer",
+  "version": "1.0.0",
+  "description": "A nodejs sample to consume the cloud alm custom processes api.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MedHidri/calm-custom-processes-api-consumer.git"
+  },
+  "author": "Mohamed HIDRI",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "axios-oauth-client": "^2.0.4"
+  }
+}
